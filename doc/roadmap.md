@@ -51,7 +51,7 @@
 * Extract examples into new repository.
 * [RFC3891](http://tools.ietf.org/html/rfc3891): Replaces
 * [RFC3892](http://tools.ietf.org/html/rfc3892): Referred-By
-* [RFC3911](http://tools.ietf.org/html/rfc3903): Join
+* [RFC3911](http://tools.ietf.org/html/rfc3911): Join
 * [RFC4320](http://tools.ietf.org/html/rfc4320): Invite transactions
 * [RFC4321](http://tools.ietf.org/html/rfc4321): Invite recomendations
 * [RFC4488](http://tools.ietf.org/html/rfc4488): REFER without subscription
